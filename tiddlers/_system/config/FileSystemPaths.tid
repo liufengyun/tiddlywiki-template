@@ -1,0 +1,10 @@
+created: 20160906220141993
+modified: 20160906220223528
+tags: 
+title: $:/config/FileSystemPaths
+type: text/vnd.tiddlywiki
+
+[is[system]removeprefix[$:/]addprefix[_system/]]
+[tag[task]addprefix[tasks/]]
+[tag[log]addprefix[log/]]
+

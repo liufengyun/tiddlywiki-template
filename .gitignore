@@ -1,0 +1,9 @@
+# ignore pdf files
+.DS_Store
+*.log
+*.out
+*.pdf
+*.aux
+
+# tiddly
+output/
